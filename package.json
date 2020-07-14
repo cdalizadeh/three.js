@@ -102,5 +102,6 @@
       "build/three.module.js"
     ],
     "directories": {}
-  }
+  },
+  "type":"module"
 }
